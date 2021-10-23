@@ -6,7 +6,7 @@
 import TheInterface from "./components/TheInterface";
 
 export default {
-  name: "app",
+  name: "new-name",
   components: {
     TheInterface
   },
